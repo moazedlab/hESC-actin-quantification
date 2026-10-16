@@ -9,8 +9,7 @@ and DNase I (G-actin) staining in hESCs.
 Guidance on image analysis from Image Analysis Collaboratory at Harvard Medical School.  
 Code developed with assistance from Claude AI (Anthropic, 2025).
 
-**Associated manuscript:** "Genetic compensation in β-actin mutants occurs independently of mutations that destabilize β-actin mRNA"
-**Authors:** Harleen Saini(1), Jiuchun Zhang(2), Hiba Dardari(1†), Danesh Moazed(1*)
+**Associated manuscript:** Saini H, Zhang J, Dardari H, Moazed D. "Genetic compensation in β-actin mutants occurs independently of mutations that destabilize β-actin mRNA." bioRxiv (2026). [https://doi.org/10.64898/2026.04.21.719943](https://doi.org/10.64898/2026.04.21.719943)
 
 **Affiliations:**	  
 (1) Howard Hughes Medical Institute, Department of Cell Biology, Blavatnik Institute, Harvard Medical School; Boston, MA, USA.  
@@ -26,5 +25,5 @@ https://doi.org/10.5281/zenodo.19556498
 ## Contents
 - `Phalloidin_DNaseI_quant.ipynb` — analysis notebook
 - `phalloidin-dnaseI-quant.tsv` — quantification results
-- `20260410-phalloidin-dnaseI-plots.pdf` — figures
+- `phalloidin-dnaseI-plots.pdf` — figures
 
